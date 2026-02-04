@@ -1,4 +1,4 @@
-Covy and 2B's Game is a 2D Puzzle game that utilizes speech recognition. Set in the aftermath of a devastating war, discover new spells, cast powerful magic, and uncover the untold past as you journey through the memories of the fallen victims of war.
+Covy and 2B's Game is a 2D Puzzle game that utilizes LLMs. Set in the aftermath of a devastating war, discover new spells, cast powerful magic, and uncover the untold past as you journey through the memories of the fallen victims of war.
 
 Links to some of my most complex and/or cleanest work. All work is all my own unless otherwise stated at the top of file:
 
@@ -13,8 +13,6 @@ https://github.com/Jurosale/JTM/blob/master/Spells/SummonSpells.cs
 https://github.com/Jurosale/JTM/blob/master/Spirits/Spirit_Interaction.cs
 https://github.com/Jurosale/JTM/blob/master/Other%20Scripts/Scene_Manager.cs
 https://github.com/Jurosale/JTM/blob/master/Spells/NPCSpells.cs
-https://github.com/Jurosale/JTM/blob/master/Other%20Scripts/SpeechRecognition01.cs
-https://github.com/Jurosale/JTM/blob/master/Other%20Scripts/SpellBook.cs
 
 Team Members:
 Eric Guo,
