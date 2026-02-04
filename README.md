@@ -15,10 +15,6 @@ https://github.com/Jurosale/JTM/blob/master/Other%20Scripts/Scene_Manager.cs
 https://github.com/Jurosale/JTM/blob/master/Spells/NPCSpells.cs
 
 Team Members:
-Eric Guo,
-Niken Hertanto,
-Inkan Hertanto,
-Patrick Kagel,
 Covy Hertanto,
 2B Rosales
 
