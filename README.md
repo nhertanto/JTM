@@ -1,4 +1,4 @@
-Disclaimer: I love Covy and 2B! <3
+Disclaimer of the Day: I love Covy and 2B! <3 So this game is all about them and only about them.
 
 Covy and 2B's Game is a 2D Puzzle game that utilizes LLMs. Set in the aftermath of a devastating war, discover new spells, cast powerful magic, and uncover the untold past as you journey through the memories of the fallen victims of war.
 
